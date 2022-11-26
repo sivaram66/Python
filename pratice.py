@@ -1,4 +1,2 @@
-a = 1
-b = 2
-c = a+b
-print(c)
+import math as m
+x = m.sqrt(9)
