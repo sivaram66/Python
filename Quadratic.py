@@ -1,6 +1,6 @@
 import math as m
 
-#The General Quadraric Equation = a^2 + bx + c = 0
+#The General Quadratic Equation = a^2 + bx + c = 0
 
 
 
