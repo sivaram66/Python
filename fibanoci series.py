@@ -1,5 +1,5 @@
 a=0
-n=int(input("Enter the number of terms you want"))
+n=int(input("enter the number of terms you want"))
 b=1
 sum=0
 print("0 1 ",end='')
