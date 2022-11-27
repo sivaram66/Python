@@ -4,7 +4,7 @@ import math as m
 
 
 
-a, b,c = eval(input("enter the Coeffients"))
+a, b,c = eval(input("Enter the Coeffients"))
 #find the  discriminant
 d = (b**2 - 4*a*c)
 if d>0:
