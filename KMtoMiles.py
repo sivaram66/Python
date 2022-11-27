@@ -3,4 +3,4 @@
 KM = eval(input("Enter the Kilometers"))
 
 Mile= (1.609)*KM
-print(Mile)
+print("{} kilometer is equal to {} Miles".format(KM, Mile) )
