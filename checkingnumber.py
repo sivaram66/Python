@@ -1,4 +1,4 @@
-num = eval(input("enter the number"))
+num = eval(input("Enter the number"))
 if  num>0:
     print("{} is Positive Number".format(num))
 if num ==0:
