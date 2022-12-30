@@ -2,8 +2,6 @@ import math as m
 
 #The General Quadratic Equation = a^2 + bx + c = 0
 
-
-
 a, b,c = eval(input("Enter the Coeffients"))
 #find the  discriminant
 d = (b**2 - 4*a*c)

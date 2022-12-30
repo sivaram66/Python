@@ -1,7 +1,7 @@
 num = eval(input("enter the number"))
 if  num>0:
     print("{} is Positive Number".format(num))
-elif num ==0:
+if num ==0:
     print("Zero")
 if num<0:
     print("{} is Negative Number".format(num))
@@ -10,5 +10,5 @@ if num<0:
 
 #The upper one is Called (Nested if) means [if inside if]
 
-#we can also do this in another method using {elif}
+#we can also do this in another method using {elif} instead of if 
 
