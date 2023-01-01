@@ -1,3 +1,4 @@
-tuple = ["Anusha", "Sivaram","Harsha",'Pavan', "BHARAT"]
-tuple[1]= "Bannu"
-print(tuple)
+i = 1
+while i<=5:
+    print(i)
+i+=1
