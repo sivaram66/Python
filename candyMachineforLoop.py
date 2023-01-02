@@ -1,4 +1,4 @@
-num = 407
+
 
 x = eval(input("enter the cndy"))
 i = 1 
