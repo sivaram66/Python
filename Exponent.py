@@ -4,5 +4,4 @@ ans=0
 def Exponent(x,y):
     ans=x**y
     return ans
-Exp=Exponent(a,b)
-print(Exp)
+Exponent(a,b)
